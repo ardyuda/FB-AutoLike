@@ -3,6 +3,7 @@
 # Feature:
 # - Auto Login
 # - Auto Liking other people's post in facebook for several minutes
+# - Tested on Windows 10 Pro
 # 
 # How to Use:
 # - Make sure your screen resolution is 1920x1080 and 100% size of text, apps, etc
