@@ -9,7 +9,7 @@
 # - Run 'bot.py' file in command prompt ($python bot.py)
 # - There will be a window appear
 # - Fill (You can also use float) in how long the bot is running on entry box, then click OK.
-# - Fill in the login field, then click Login.
+# - Fill the login field, then click Login.
 # - Wait until the program stops
 #
 # Modules Used:
@@ -28,4 +28,4 @@
 # This code/program is not intended for phishing or other forms of scam. Loss of account, personal data and so on is not my responsibility.
 #
 # Issue:
-# -If there are any issues regarding the mismatch version of Microsoft Edge (selenium webdriver), please visit https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/. Download the matching version. Extract the 'msedge.exe' file to the FB-AutoLike folder.
+# -If there are any issues regarding the mismatch version of Microsoft Edge (selenium webdriver), visit https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/. Download the matching version. Extract the 'msedge.exe' file to the FB-AutoLike folder.
