@@ -30,7 +30,7 @@ class Main(Tk):
     codeBy = 'Code By: ardyuda' # Cannot Be Removed 
     def __init__(self):
         super().__init__()
-        self.geometry("400x300+0-30")
+        self.geometry("430x300+0-30")
         self.title("FB-AutoLike")
         self.iconbitmap(f'{self.cwd}\\images\\icon.ico')
         # frames
