@@ -1,5 +1,7 @@
-# FB-AutoLike v1.0
+# FB-AutoLike v1.0 (January 20, 2022)
 # 
+# Made on January 18, 2022
+#
 # Feature:
 # - Auto Login
 # - Auto Liking other people's post in facebook for several minutes
