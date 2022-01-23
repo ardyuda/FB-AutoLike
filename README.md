@@ -5,13 +5,15 @@
 # - Auto Liking other people's post in facebook for several minutes
 # - Tested on Windows 10 Pro
 # 
-# How to Use:
-# - Make sure your screen resolution is 1920x1080 and 100% size of text, apps, etc
-# - Run 'bot.py' file in command prompt ($python bot.py)
-# - There will be a window appear
+# How to Install and Use:
+# - Make sure your screen resolution is 1920x1080 and 100% size of text, apps, etc.
+# - Make sure you have installed git (if you haven't, visit https://git-scm.com/download). Then clone this repository ($git clone https://github.com/ardyuda/FB-AutoLike).
+# - Go to 'FB-AutoLike' folder ($cd FB-AutoLike).
+# - Run 'bot.py' file in command prompt ($python bot.py).
+# - There will be a window appear.
 # - Fill (You can also use float) in how long the bot is running on entry box, then click OK.
 # - Fill the login field, then click Login.
-# - Wait until the program stops
+# - Congrats. It's work now.
 #
 # Modules Used:
 # - tkinter ($pip install tkinter)
