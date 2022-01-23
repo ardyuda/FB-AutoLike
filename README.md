@@ -34,4 +34,4 @@
 # - If there are any issues regarding the mismatch version of Microsoft Edge (selenium webdriver), visit https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/. Download the matching version. Extract the 'msedgedriver.exe' file to the FB-AutoLike folder.
 #
 # Contact Me:
-# ard080601@gmail.com
+# e-mail: ard080601@gmail.com
