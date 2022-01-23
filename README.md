@@ -11,8 +11,8 @@
 # - Go to 'FB-AutoLike' folder ($cd FB-AutoLike).
 # - Run 'bot.py' file in command prompt ($python bot.py).
 # - There will be a window appear.
-# - Fill (You can also use float) in how long the bot is running on entry box, then click OK.
-# - Fill the login field, then click Login.
+# - Fill (You can also use float) in how long the bot is running on entry box, then click 'OK' button.
+# - Fill the login field, then click 'Login' button.
 # - Congrats. It's working now.
 #
 # Modules Used:
