@@ -2,7 +2,7 @@
 # 
 # Made on January 18, 2022
 #
-# Feature:
+# Feature v1.0:
 # - Auto Login
 # - Auto Liking other people's post in facebook for several minutes
 # - Tested on Windows 10 Pro
