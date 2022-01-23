@@ -13,7 +13,7 @@
 # - There will be a window appear.
 # - Fill (You can also use float) in how long the bot is running on entry box, then click OK.
 # - Fill the login field, then click Login.
-# - Congrats. It's work now.
+# - Congrats. It's working now.
 #
 # Modules Used:
 # - tkinter ($pip install tkinter)
