@@ -23,7 +23,7 @@
 # - os
 # - pyautogui ($pip install pyautogui)
 # - cryptocode ($pip install cryptocode)
-# - threading ($pip install threading)
+# - threading
 # - time
 #
 # About:
